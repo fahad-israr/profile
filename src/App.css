@@ -1,5 +1,5 @@
 .App{
-    background:#1a222c;
+    background:#000000;
     color:#fff;
     
 }
@@ -10,7 +10,7 @@ a{
     display:flex;
 }
 .particles{
-    background: #1a222c;
+    background: #000000;
     display: flex;
     vertical-align: bottom;
     width: 100%;
@@ -62,7 +62,7 @@ a{
         border:1.5px solid #fff;
         border-radius: 50%;
         transition-duration:.5s;
-        color:#1a222c;;
+        color:#000000;;
         background: #fff;
         
     
@@ -98,7 +98,7 @@ a{
     border:1.5px solid #fff;
     border-radius: 35px;
     transition-duration:.5s;
-    color:#1a222c;;
+    color:#000000;;
     background: #fff;
     
 
