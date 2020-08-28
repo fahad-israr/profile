@@ -1,26 +1,33 @@
 {
   "files": {
-    "main.css": "/profile/static/css/main.c6510191.chunk.css",
-    "main.js": "/profile/static/js/main.a3f0575b.chunk.js",
-    "main.js.map": "/profile/static/js/main.a3f0575b.chunk.js.map",
-    "runtime~main.js": "/profile/static/js/runtime~main.cc8686f1.js",
-    "runtime~main.js.map": "/profile/static/js/runtime~main.cc8686f1.js.map",
-    "static/css/2.d819a5bb.chunk.css": "/profile/static/css/2.d819a5bb.chunk.css",
-    "static/js/2.6ab71303.chunk.js": "/profile/static/js/2.6ab71303.chunk.js",
-    "static/js/2.6ab71303.chunk.js.map": "/profile/static/js/2.6ab71303.chunk.js.map",
+    "main.css": "/profile/static/css/main.234b79ed.chunk.css",
+    "main.js": "/profile/static/js/main.a4255d3a.chunk.js",
+    "main.js.map": "/profile/static/js/main.a4255d3a.chunk.js.map",
+    "runtime-main.js": "/profile/static/js/runtime-main.8771bb24.js",
+    "runtime-main.js.map": "/profile/static/js/runtime-main.8771bb24.js.map",
+    "static/css/2.ac1ab58b.chunk.css": "/profile/static/css/2.ac1ab58b.chunk.css",
+    "static/js/2.3c488e89.chunk.js": "/profile/static/js/2.3c488e89.chunk.js",
+    "static/js/2.3c488e89.chunk.js.map": "/profile/static/js/2.3c488e89.chunk.js.map",
     "index.html": "/profile/index.html",
-    "precache-manifest.7c07a8e725fe087ee6f2e92c805b0ff7.js": "/profile/precache-manifest.7c07a8e725fe087ee6f2e92c805b0ff7.js",
+    "precache-manifest.099d34c9a0e690ea50daf1d3283919de.js": "/profile/precache-manifest.099d34c9a0e690ea50daf1d3283919de.js",
     "service-worker.js": "/profile/service-worker.js",
-    "static/css/2.d819a5bb.chunk.css.map": "/profile/static/css/2.d819a5bb.chunk.css.map",
-    "static/css/main.c6510191.chunk.css.map": "/profile/static/css/main.c6510191.chunk.css.map",
-    "static/media/Resume_Fahad_Israr_August_2019.pdf": "/profile/static/media/Resume_Fahad_Israr_August_2019.03f1a346.pdf",
+    "static/css/2.ac1ab58b.chunk.css.map": "/profile/static/css/2.ac1ab58b.chunk.css.map",
+    "static/css/main.234b79ed.chunk.css.map": "/profile/static/css/main.234b79ed.chunk.css.map",
+    "static/js/2.3c488e89.chunk.js.LICENSE.txt": "/profile/static/js/2.3c488e89.chunk.js.LICENSE.txt",
+    "static/media/Fahad_Israr_ Resume_July_2020 .pdf": "/profile/static/media/Fahad_Israr_ Resume_July_2020 .d09643e6.pdf",
     "static/media/cat.png": "/profile/static/media/cat.5e8b7aa4.png",
-    "static/media/drupal.png": "/profile/static/media/drupal.14de5a90.png",
     "static/media/ecell.png": "/profile/static/media/ecell.1be42f20.png",
     "static/media/face.png": "/profile/static/media/face.8f23430f.png",
     "static/media/library.png": "/profile/static/media/library.f9927576.png",
     "static/media/postgresql.png": "/profile/static/media/postgresql.549742dc.png",
     "static/media/techfest.png": "/profile/static/media/techfest.64c769ee.png",
     "static/media/tp.png": "/profile/static/media/tp.1b1a5e86.png"
-  }
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8771bb24.js",
+    "static/css/2.ac1ab58b.chunk.css",
+    "static/js/2.3c488e89.chunk.js",
+    "static/css/main.234b79ed.chunk.css",
+    "static/js/main.a4255d3a.chunk.js"
+  ]
 }
