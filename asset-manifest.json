@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/profile/static/css/main.234b79ed.chunk.css",
-    "main.js": "/profile/static/js/main.a4255d3a.chunk.js",
-    "main.js.map": "/profile/static/js/main.a4255d3a.chunk.js.map",
+    "main.css": "/profile/static/css/main.f0a3a747.chunk.css",
+    "main.js": "/profile/static/js/main.f026310b.chunk.js",
+    "main.js.map": "/profile/static/js/main.f026310b.chunk.js.map",
     "runtime-main.js": "/profile/static/js/runtime-main.8771bb24.js",
     "runtime-main.js.map": "/profile/static/js/runtime-main.8771bb24.js.map",
     "static/css/2.ac1ab58b.chunk.css": "/profile/static/css/2.ac1ab58b.chunk.css",
-    "static/js/2.3c488e89.chunk.js": "/profile/static/js/2.3c488e89.chunk.js",
-    "static/js/2.3c488e89.chunk.js.map": "/profile/static/js/2.3c488e89.chunk.js.map",
+    "static/js/2.7c3ab3d0.chunk.js": "/profile/static/js/2.7c3ab3d0.chunk.js",
+    "static/js/2.7c3ab3d0.chunk.js.map": "/profile/static/js/2.7c3ab3d0.chunk.js.map",
     "index.html": "/profile/index.html",
-    "precache-manifest.099d34c9a0e690ea50daf1d3283919de.js": "/profile/precache-manifest.099d34c9a0e690ea50daf1d3283919de.js",
+    "precache-manifest.9ef890e62dd39cf8e384ed1193c51581.js": "/profile/precache-manifest.9ef890e62dd39cf8e384ed1193c51581.js",
     "service-worker.js": "/profile/service-worker.js",
     "static/css/2.ac1ab58b.chunk.css.map": "/profile/static/css/2.ac1ab58b.chunk.css.map",
-    "static/css/main.234b79ed.chunk.css.map": "/profile/static/css/main.234b79ed.chunk.css.map",
-    "static/js/2.3c488e89.chunk.js.LICENSE.txt": "/profile/static/js/2.3c488e89.chunk.js.LICENSE.txt",
+    "static/css/main.f0a3a747.chunk.css.map": "/profile/static/css/main.f0a3a747.chunk.css.map",
+    "static/js/2.7c3ab3d0.chunk.js.LICENSE.txt": "/profile/static/js/2.7c3ab3d0.chunk.js.LICENSE.txt",
     "static/media/Fahad_Israr_ Resume_July_2020 .pdf": "/profile/static/media/Fahad_Israr_ Resume_July_2020 .d09643e6.pdf",
     "static/media/cat.png": "/profile/static/media/cat.5e8b7aa4.png",
     "static/media/ecell.png": "/profile/static/media/ecell.1be42f20.png",
@@ -26,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.8771bb24.js",
     "static/css/2.ac1ab58b.chunk.css",
-    "static/js/2.3c488e89.chunk.js",
-    "static/css/main.234b79ed.chunk.css",
-    "static/js/main.a4255d3a.chunk.js"
+    "static/js/2.7c3ab3d0.chunk.js",
+    "static/css/main.f0a3a747.chunk.css",
+    "static/js/main.f026310b.chunk.js"
   ]
 }
